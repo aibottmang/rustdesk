@@ -9,7 +9,7 @@ default-run = "colosseumcomputer"
 rust-version = "1.75"
 
 [lib]
-name = "libcolosseumcomputer"
+name = "librustdesk"
 crate-type = ["cdylib", "staticlib", "rlib"]
 
 [[bin]]
